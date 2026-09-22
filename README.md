@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Você vai precisar de dois terminais abertos ao mesmo tempo — um pro back-end e outro pro front-end, já que são dois servidores rodando em paralelo.
 (no meu pc o nodes so estava funcionado a versao 22 em outros pcs estava funcionando no note normal)
 1. Back-end(VERIFICA SE E A PASTA BACK)
@@ -114,3 +115,7 @@ Filtrar painel por período	números batem só com o intervalo
 
   equipe :
   luis miguel soares oliveira
+=======
+# gestao-rural-projeto-final
+pequenos produtores rurais costumam controlar tudo em caderno, papel solto, o de cabeça. Isso torna quase impossível responder perguntas simples, mas essenciais pro negócio quanto foi gasto pra produzir, o que rendeu mais, se aquele mês deu lucro ou prejuízo.
+>>>>>>> f932bc63a5d1b0fcb80da58f2f5162f72ad5c887
