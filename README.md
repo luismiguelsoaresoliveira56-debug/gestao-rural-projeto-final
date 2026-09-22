@@ -102,8 +102,7 @@ Fizemos questão de testar isso na unha, mandando de propósito um total errado 
 
 Outras validações que implementamos: campos obrigatórios não podem ficar vazios, quantidades e valores têm que ser maiores que zero, e não dá pra registrar uma venda ou uma produção referenciando um produto que não existe.
 
-O que testamos
-Teste	O que esperávamos
+erros
 Cadastrar propriedade sem nome	erro 400
 Cadastrar propriedade com área 0	erro 400
 Cadastrar produto com propriedade que não existe	erro 400
@@ -114,9 +113,5 @@ Excluir produto que já tem venda	bloqueado
 Filtrar despesas por categoria	só mostra a categoria escolhida
 Filtrar painel por período	números batem só com o intervalo
 
-(essa tabela é o ponto de partida — vale completar com os testes reais que vocês rodaram, de preferência com print de cada um)
-  
+grupo :luis miguel soares oliveira
 
-  equipe : luis miguel soares oliveira ,
-  luis miguel soares oliveira
-=======
