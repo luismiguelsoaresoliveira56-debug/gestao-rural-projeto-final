@@ -4,7 +4,7 @@ pequenos produtores rurais costumam controlar tudo em caderno, papel solto, o de
 
 
 Você vai precisar de dois terminais abertos ao mesmo tempo — um pro back-end e outro pro front-end, já que são dois servidores rodando em paralelo.
-(no meu pc o nodes so estava funcionado a versao 22 em outros pcs estava funcionando no note normal)
+(no meu pc o nodes so estava funcionado a versao 22 em outros pcs que testei estava funcionando no nodes normal)
 1. Back-end(VERIFICA SE E A PASTA BACK)
 bash
 cd backend
