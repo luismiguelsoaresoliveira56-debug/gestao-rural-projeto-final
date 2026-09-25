@@ -114,4 +114,6 @@ Filtrar despesas por categoria	só mostra a categoria escolhida
 Filtrar painel por período	números batem só com o intervalo
 
 grupo :luis miguel soares oliveira
+JOAO PEDRO R LIMA
+LARA 
 
